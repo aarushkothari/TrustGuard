@@ -1,0 +1,3 @@
+# This directory holds the original source CSVs — untouched.
+# Place retail_store_sales.csv in data/raw/source/
+# Delta tables are written to data/raw/transactions_raw/ and data/raw/customers_raw/
